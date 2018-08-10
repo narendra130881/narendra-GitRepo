@@ -1,5 +1,0 @@
-This is second file
-Seciond line
-update text to git repo
-<add for merge>
-
